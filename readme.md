@@ -8,5 +8,10 @@
 **HTML (Hypertext Markup Language)은 웹 페이지와 그 내용을 구조화하기 위해 사용하는 코드**
 
 # HTML의 기본 구조
-**전체적인 구조는 시멘틱마크업 형태이며 HTML 문서는 <HTML> 태그로 시작하여 </HTML> 태그로 종료한다. 아래 예처럼 전체 내용은 크게 헤더와 바디의 두 부분으로 구성되며, 헤더는 <HEAD>와 </HEAD> 태그를 사용하고, 바디는 <BODY>와 </BODY> 태그를 사용한다. <TITLE>은 문서의 제목으로 웹 브라우저 상단에 표시된다.**
+- 문서 형식 선언, <!doctype html>
+- 문서의 시작과 끝, <html lang="ko">
+- 문서의 정보, <head>
+- 인코딩 방식 설정, <meta charset="utf-8>
+- 문서의 제목, <title>
+- 화면에 표시될 콘텐츠, <body>
 
