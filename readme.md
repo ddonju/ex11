@@ -18,7 +18,7 @@
 		</head>
 		<body>
 		</body>
-	></html>
+	</html>
 
 
 - !DOCTYPE html : 현재 문서가 HTML5 문서임을 명시합니다.
